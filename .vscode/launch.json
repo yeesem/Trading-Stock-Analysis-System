@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AdminLogin",
+            "request": "launch",
+            "mainClass": "org.example.AdminLogin",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "AdminLogin",
+            "request": "launch",
+            "mainClass": "AdminLogin",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "EmailJobScheduler",
+            "request": "launch",
+            "mainClass": "org.example.EmailJobScheduler",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "SendEmail",
+            "request": "launch",
+            "mainClass": "org.example.SendEmail",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "LeaderboardGUI",
+            "request": "launch",
+            "mainClass": "org.example.LeaderboardGUI",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "Leaderboard",
+            "request": "launch",
+            "mainClass": "org.example.Leaderboard",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "Leaderboard$LeaderboardGUI",
+            "request": "launch",
+            "mainClass": "org.example.Leaderboard$LeaderboardGUI",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "org.example.Test",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "LoginForm",
+            "request": "launch",
+            "mainClass": "org.example.TestUserAuthentication.LoginForm",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "RegisterForm",
+            "request": "launch",
+            "mainClass": "org.example.RegisterForm",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "LoginForm",
+            "request": "launch",
+            "mainClass": "org.example.LoginForm",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldSwing",
+            "request": "launch",
+            "mainClass": "HelloWorldSwing",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "org.example.MainClass",
+            "projectName": "Algobox"
+        },
+        {
+            "type": "java",
+            "name": "TestAPI",
+            "request": "launch",
+            "mainClass": "org.example.TestAPI",
+            "projectName": "Algobox"
+        }
+    ]
+}
